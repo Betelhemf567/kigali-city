@@ -1,3 +1,4 @@
+# Dependencies: flutter_map, Firebase, Provider - no Google Maps billing required
 name: kigali_city_directory
 description: Kigali City Services & Places Directory
 publish_to: 'none'

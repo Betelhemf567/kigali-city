@@ -7,7 +7,7 @@ import '../../theme.dart';
 import '../directory/add_listing_screen.dart';
 import '../detail/detail_screen.dart';
 
-// Shows full listing details with embedded map and navigation button
+// Displays listings created by the current user with edit and delete options
 
 class MyListingsScreen extends StatefulWidget {
   const MyListingsScreen({super.key});
