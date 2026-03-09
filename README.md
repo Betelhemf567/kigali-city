@@ -132,7 +132,7 @@ Hospital, Police Station, Library, Restaurant, Café, Park, Tourist Attraction, 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Betelhemf567/kigali-city-services-directory.git
+git clone https://github.com/Betelhemf567/kigali-city.git
 cd kigali-city-services-directory/kigali_app
 ```
 
@@ -193,3 +193,4 @@ The "Navigate" button on listing detail screens opens the device's Google Maps a
 - Runs on Android emulator or Android device only
 - Web browsers are not supported
 - Minimum SDK: Android 6.0 (API 23)
+
