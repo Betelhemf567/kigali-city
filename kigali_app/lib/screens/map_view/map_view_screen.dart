@@ -6,6 +6,7 @@ import '../../models/listing.dart';
 import '../../theme.dart';
 import '../detail/detail_screen.dart';
 
+// Displays all listings as markers on OpenStreetMap - no API key needed
 class MapViewScreen extends StatefulWidget {
   const MapViewScreen({super.key});
 
