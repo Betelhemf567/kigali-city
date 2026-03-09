@@ -133,7 +133,7 @@ Hospital, Police Station, Library, Restaurant, Café, Park, Tourist Attraction, 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Betelhemf567/kigali-city.git
-cd kigali-city-services-directory/kigali_app
+cd kigali-city/kigali_app
 ```
 
 ### 2. Configure Firebase
