@@ -3,6 +3,8 @@ import 'package:flutter/foundation.dart';
 import '../models/listing.dart';
 import '../services/listing_service.dart';
 
+// Manages listing data with real-time Firestore streaming
+
 enum ListingStatus { initial, loading, loaded, error }
 
 class ListingProvider extends ChangeNotifier {
