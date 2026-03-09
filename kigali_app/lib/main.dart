@@ -9,6 +9,8 @@ import 'screens/auth/verify_email_screen.dart';
 import 'home_screen.dart';
 import 'theme.dart';
 
+// Entry point: initializes Firebase and launches the app
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   if (Firebase.apps.isEmpty){
