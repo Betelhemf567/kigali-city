@@ -3,6 +3,8 @@ import 'package:firebase_auth/firebase_auth.dart';
 import '../services/auth_service.dart';
 import '../models/user_profile.dart';
 
+// Manages authentication state: login, signup, logout, email verification
+
 enum AuthStatus { initial, loading, authenticated, unauthenticated, emailNotVerified, error }
 
 class AuthProvider extends ChangeNotifier {
